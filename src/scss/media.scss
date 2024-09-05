@@ -1,0 +1,23 @@
+@media only screen and (max-width: 748px){
+    .header-wrap .header .links{
+        width: 47%;
+    }
+}
+
+@media (min-width: 748px) and (max-width: 990px){
+    .header-wrap .header .links{
+        width: 37%;
+    }
+}
+
+@media (min-width: 990px) and (max-width:1220px){
+    .header-wrap .header .links{
+        width: 32%;
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    
+}
+
+
